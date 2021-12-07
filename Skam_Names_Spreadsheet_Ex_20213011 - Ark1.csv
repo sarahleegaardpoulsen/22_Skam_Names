@@ -1,0 +1,11 @@
+Name,Gender,Num_Spell,Pos_Spell,Expression,RegEx_Link,Notes
+Noora,F,8,"Nohra,Noora,Noorah,Nora,Nóra,Norah,Norra,Noraah",[N][Oo|Óó]*[Hh]*[Rr]+[Hh]*[Aa]+[Hh]*\b,https://regex101.com/r/u5rVOj/7,
+Sana,F,6,"Sahna,Sana,Sanah,Sanaa,Zana,Zanah",[S|Z][Aa]+[Hh]*[Nn][Hh]*[Aa]+[Hh]*\b,https://regex101.com/r/2fQZPX/4,
+Vilde ,F,3,"Vilde, Wiilde, Wilde",[Vv|Ww][Ii]+[Ll]+[Dd]+[Ee]+\b,https://regex101.com/r/KyTJg9/3,
+Mari ,F,3,"Mari,Marí,Marri",[M][Aa|Áá]+[Hh]*[Rr]+[Ii|Íí]+[Hh]*\n,https://regex101.com/r/7JT11Z/3,This is without the dobble names
+Linn,F,6,"Leen,Len,Lien,Lin,Linh,Linn",[L][Ii|Ee]+[Nn]+[Hh]*\n,https://regex101.com/r/F5AzOr/3,
+Isak,M,23,"Isac,Isach,Isack,Isak,Ísak,Isaq,Isaqh,Ishak Ishaq,Ishàq,Ishaak,Ishaaq,Issac,Issack,Issak,Iszak,Isaac,Isaack,Isaak,Isaaq,Izac,Izack,Izak",[I|Íí]+[Ss|Zz|Cc|Kk|Qq]+[Hh]*[Aa|Áá|Àà]+[Hh]*[Cc|Zz|Kk|Qq]+[Hh]*\b,https://regex101.com/r/LeeMfe/4,
+William,M,7,"Viliam,Villiam,Whilliam,Wiilliam,Wiliam,William,Williamm",[W|V][Hh]*[Ii|Íí]+[Hh]*[Ll]+[Hh]*[Ii|Íí]+[Aa]+[Mm]+\b,https://regex101.com/r/BT6Ozj/3,
+Eskild,M,2,"Eskil,Eskild",[E][Ss|Zz]+[Kk|Cc]+[Ii|Íí]+[Ll]+[Dd]*\n,https://regex101.com/r/FqUDb9/2,
+Even,M,1,Even,[E|É][Vv]+[Ee|Éé]+[Nn]+\b,https://regex101.com/r/ZUsWXy/2,
+Yousef,M,22,"Josef,Jósef,Josep,Joseph,Jossef,Jousef,Joussef,Jozef,Józef,Jozsef,Jusef,Juseph,Yosef,Yoseph,Yossef,Youcef,Yousef,Youseph,Youssef,Yuosef,Yusef,Yussef",[Y|J]*[Uu|Úú|Oo|Óó]+[Ss|Zz|Cc]+[Ee|Éé]+[Ff|Pp]+[Hh]*\b,https://regex101.com/r/zO99ha/2,
