@@ -6,6 +6,9 @@
 https://familieretshuset.dk/navne/navne/godkendte-fornavne
 
 ### Danmarks Statestik
+#### Datasets with the frequency of names in Denmark
+To get the datasets we have been in contact with Dorthe from Danmarks Statestik and received the data through email. We were able to share these data aslong as we clearly state that is is from Danmarks Statistik. The data is available above.
+
 #### Website to create dataset over children born in Denmark
 https://www.statistikbanken.dk/statbank5a/selectvarval/define.asp?PLanguage=0&subword=tabsel&MainTable=FODDAG&PXSId=206352&tablestyle=&ST=SD&buttons=0 
 
