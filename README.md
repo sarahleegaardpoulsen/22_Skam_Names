@@ -3,6 +3,7 @@
 ## How to get the data?
 ### Familieretshuset
 #### Website with approved first names in Denmark
+The list of approved names for both boys and girls is obtained from the website listed below. We are able to share it in raw and edited format aslong as we state where we got the lists from. The uploded files are the original from the website.
 https://familieretshuset.dk/navne/navne/godkendte-fornavne
 
 ### Danmarks Statestik
